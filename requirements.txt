@@ -1,3 +1,1 @@
-python-telegram-bot==20.8
-requests
-pytz
+python-telegram-bot==22.3
